@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.js": "/Nomflix/static/js/main.18492f84.chunk.js",
+    "main.js.map": "/Nomflix/static/js/main.18492f84.chunk.js.map",
+    "runtime-main.js": "/Nomflix/static/js/runtime-main.14a59428.js",
+    "runtime-main.js.map": "/Nomflix/static/js/runtime-main.14a59428.js.map",
+    "static/css/2.89f067aa.chunk.css": "/Nomflix/static/css/2.89f067aa.chunk.css",
+    "static/js/2.0703e2d4.chunk.js": "/Nomflix/static/js/2.0703e2d4.chunk.js",
+    "static/js/2.0703e2d4.chunk.js.map": "/Nomflix/static/js/2.0703e2d4.chunk.js.map",
+    "index.html": "/Nomflix/index.html",
+    "precache-manifest.a608d193f41515983eb00bbd8f3ab667.js": "/Nomflix/precache-manifest.a608d193f41515983eb00bbd8f3ab667.js",
+    "service-worker.js": "/Nomflix/service-worker.js",
+    "static/css/2.89f067aa.chunk.css.map": "/Nomflix/static/css/2.89f067aa.chunk.css.map",
+    "static/js/2.0703e2d4.chunk.js.LICENSE.txt": "/Nomflix/static/js/2.0703e2d4.chunk.js.LICENSE.txt",
+    "static/media/notFoundPoster.png": "/Nomflix/static/media/notFoundPoster.bd9f46db.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.14a59428.js",
+    "static/css/2.89f067aa.chunk.css",
+    "static/js/2.0703e2d4.chunk.js",
+    "static/js/main.18492f84.chunk.js"
+  ]
+}
