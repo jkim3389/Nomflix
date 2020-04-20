@@ -1,4 +1,24 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Nomflix
+
+Learning React and ES6 by building a Movie Discovery App. 
+
+## Screens
+
+- Home
+- TV Shows
+- Search
+- Detail
+
+## API Verbs
+- Now Playing(Movie)
+- Upcoming(Movie)
+- Top Rated(TV)
+- Popular(TV, Movies)
+- Airing Today(TV)
+- TV Show Detail
+- Movie Detail
+- Search Movies
+- Search TV
 
 ## Available Scripts
 
@@ -66,3 +86,5 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+
