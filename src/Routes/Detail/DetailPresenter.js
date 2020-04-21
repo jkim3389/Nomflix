@@ -3,7 +3,7 @@ import React from 'react'
 import styled from 'styled-components'
 import Loading from '../../Components/Loading'
 import {Helmet} from 'react-helmet'
-
+import Tabs from './TabsInformation/Tabs'
 const Container = styled.div`
     height : calc(100vh - 50px);
     width : 100%;
@@ -43,9 +43,9 @@ const Cover = styled.div`
 `
 
 const Information = styled.div`
-height : 100%;
-width : 70%;
-margin-left : 20px;
+    height : 100%;
+    width : 70%;
+    margin-left : 20px;
 `
 
 const ItemContainer = styled.div`
@@ -61,6 +61,7 @@ const Description = styled.p`
     opacity : 0.7;
     line-height : 2;
     width : 70%;
+    margin-bottom : 20px;
 `
 const Item = styled.span`
 
@@ -93,6 +94,7 @@ const DetailPresenter = ({result, error, loading}) => (
                 <Description>
                     {result.overview}
                 </Description>
+                <Tabs result = {result}></Tabs>
             </Information>
             
         </Content>
