@@ -2,6 +2,10 @@
 
 Learning React and ES6 by building a Movie Discovery App. 
 
+
+To see the website, 
+
+ [https://jkim3389.github.io/Nomflix](https://jkim3389.github.io/Nomflix)
 ## Used Library
 React, React-Router-Dom ,Styled-Component,  PropsType, React-Helmet,
 
